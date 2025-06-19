@@ -22,7 +22,7 @@ It allows users to select a movie and receive a list of similar movie recommenda
 ![Home Screen](Screenshot/home_screen.png.png)
 
 ### 2. Recommendation Output
-![Recommendations](screenshot/recommendations.png)
+![Recommendations](Screenshot/recommendation_output.png.png)
 
 ---
 
